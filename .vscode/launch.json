@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug STM32 in QEMU",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "external",
+            "cwd": "${workspaceRoot}",
+            "executable": "${workspaceRoot}/stm32-firmware/build/firmware.elf",
+            "device": "STM32F103",
+            "v1": false,
+            "armToolchainPath": "C:/Program Files (x86)/GNU Arm Embedded Toolchain/bin",
+            "preLaunchTask": "Build STM32",
+            "postLaunchCommands": [
+                "monitor arm semihosting enable"
+            ]
+        }
+    ]
+}

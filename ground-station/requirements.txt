@@ -1,0 +1,5 @@
+# Ground station requirements
+matplotlib==3.7.2
+numpy==1.24.3
+Pillow==10.0.1
+pyserial==3.5

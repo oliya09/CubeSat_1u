@@ -1,0 +1,34 @@
+{
+    "satellite": {
+        "name": "CubeSat-1U",
+        "mission_id": "CS1-2025",
+        "callsign": "CS1"
+    },
+    "camera": {
+        "resolution": [
+            3280,
+            2464
+        ],
+        "capture_interval": 600,
+        "compression_quality": 85,
+        "svd_components": 50
+    },
+    "storage": {
+        "base_path": "/media/sdcard",
+        "max_images": 500,
+        "max_telemetry_files": 1000,
+        "min_free_space_gb": 0.5
+    },
+    "communication": {
+        "stm32_port": "/dev/ttyS0",
+        "baudrate": 115200,
+        "radio_port": "/dev/ttyUSB0",
+        "radio_baudrate": 9600,
+        "beacon_interval": 30
+    },
+    "gpio": {
+        "stm32_wake": 17,
+        "pi_ready": 27,
+        "led_status": 22
+    }
+}

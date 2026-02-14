@@ -1,0 +1,297 @@
+2026-02-14 06:45:07,135 - CubeSat - INFO - ============================================================
+2026-02-14 06:45:07,135 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 06:45:07,135 - CubeSat - INFO - ============================================================
+2026-02-14 06:45:08,059 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 06:45:08,080 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 06:45:08,081 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:45:08,081 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:45:08,082 - CubeSat - INFO - GPIO initialized
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 06:45:08,082 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 06:45:08,082 - CameraHandler - INFO - Capturing image...
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 06:45:08,082 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 06:45:08,082 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:45:08,082 - Communication - WARNING - Radio serial not available
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 06:45:08,082 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:45:08,082 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 06:45:08,082 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 06:45:08,131 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_064508_118.jpg (199.7 KB)
+2026-02-14 06:45:08,185 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_064508_118.jpg
+2026-02-14 06:45:08,185 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_064508_118.jpg
+2026-02-14 06:45:10,086 - CubeSat - INFO - Sending to ground: image
+2026-02-14 06:45:10,087 - Communication - ERROR - Radio not available
+2026-02-14 06:45:11,088 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 06:45:11,088 - Communication - ERROR - Radio not available
+2026-02-14 06:45:38,099 - Communication - WARNING - Radio serial not available
+2026-02-14 06:46:08,089 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:46:08,089 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:46:08,089 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:46:08,111 - Communication - WARNING - Radio serial not available
+2026-02-14 06:46:38,122 - Communication - WARNING - Radio serial not available
+2026-02-14 06:47:08,093 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:47:08,093 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:47:08,093 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:47:08,131 - Communication - WARNING - Radio serial not available
+2026-02-14 06:55:59,891 - CubeSat - INFO - ============================================================
+2026-02-14 06:55:59,892 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 06:55:59,892 - CubeSat - INFO - ============================================================
+2026-02-14 06:56:00,807 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 06:56:00,815 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 06:56:00,815 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:56:00,815 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:56:00,818 - CubeSat - INFO - GPIO initialized
+2026-02-14 06:56:00,818 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 06:56:00,818 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 06:56:00,819 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 06:56:00,819 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 06:56:00,819 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 06:56:00,819 - CameraHandler - INFO - Capturing image...
+2026-02-14 06:56:00,820 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 06:56:00,820 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 06:56:00,820 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:56:00,820 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 06:56:00,820 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:56:00,821 - Communication - WARNING - Radio serial not available
+2026-02-14 06:56:00,821 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 06:56:00,821 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:56:00,821 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 06:56:00,821 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 06:56:00,834 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_065600_823.jpg (40.9 KB)
+2026-02-14 06:56:00,920 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065600_823.jpg
+2026-02-14 06:56:00,921 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065600_823.jpg
+2026-02-14 06:56:01,822 - CubeSat - INFO - Sending to ground: image
+2026-02-14 06:56:01,822 - Communication - ERROR - Radio not available
+2026-02-14 06:56:02,823 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 06:56:02,823 - Communication - ERROR - Radio not available
+2026-02-14 06:56:30,833 - Communication - WARNING - Radio serial not available
+2026-02-14 06:57:03,811 - CubeSat - INFO - ============================================================
+2026-02-14 06:57:03,811 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 06:57:03,811 - CubeSat - INFO - ============================================================
+2026-02-14 06:57:04,486 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 06:57:04,488 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 06:57:04,488 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:57:04,488 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:57:04,489 - CubeSat - INFO - GPIO initialized
+2026-02-14 06:57:04,489 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 06:57:04,489 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 06:57:04,489 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 06:57:04,489 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 06:57:04,489 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 06:57:04,489 - CameraHandler - INFO - Capturing image...
+2026-02-14 06:57:04,489 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 06:57:04,489 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 06:57:04,489 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:57:04,492 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 06:57:04,492 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:57:04,492 - Communication - WARNING - Radio serial not available
+2026-02-14 06:57:04,492 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 06:57:04,492 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:57:04,492 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 06:57:04,492 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 06:57:04,564 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_065704_564.jpg (42.6 KB)
+2026-02-14 06:57:04,591 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065704_564.jpg
+2026-02-14 06:57:04,591 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065704_564.jpg
+2026-02-14 06:57:05,493 - CubeSat - INFO - Sending to ground: image
+2026-02-14 06:57:05,493 - Communication - ERROR - Radio not available
+2026-02-14 06:57:06,494 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 06:57:06,494 - Communication - ERROR - Radio not available
+2026-02-14 06:57:10,896 - CubeSat - INFO - Shutting down flight controller...
+2026-02-14 06:57:47,681 - CubeSat - INFO - ============================================================
+2026-02-14 06:57:47,682 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 06:57:47,682 - CubeSat - INFO - ============================================================
+2026-02-14 06:57:48,565 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 06:57:48,568 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 06:57:48,568 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:57:48,568 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:57:48,568 - CubeSat - INFO - GPIO initialized
+2026-02-14 06:57:48,568 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 06:57:48,568 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 06:57:48,568 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 06:57:48,568 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 06:57:48,568 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 06:57:48,568 - CameraHandler - INFO - Capturing image...
+2026-02-14 06:57:48,571 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 06:57:48,572 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 06:57:48,572 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:57:48,572 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 06:57:48,572 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:57:48,573 - Communication - WARNING - Radio serial not available
+2026-02-14 06:57:48,573 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 06:57:48,573 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:57:48,574 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 06:57:48,574 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 06:57:48,581 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_065748_576.jpg (47.7 KB)
+2026-02-14 06:57:48,672 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065748_576.jpg
+2026-02-14 06:57:48,672 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065748_576.jpg
+2026-02-14 06:57:50,574 - CubeSat - INFO - Sending to ground: image
+2026-02-14 06:57:50,575 - Communication - ERROR - Radio not available
+2026-02-14 06:57:51,575 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 06:57:51,575 - Communication - ERROR - Radio not available
+2026-02-14 06:57:54,753 - CubeSat - INFO - Shutting down flight controller...
+2026-02-14 06:57:58,941 - CameraHandler - INFO - Camera released
+2026-02-14 06:57:58,941 - Communication - INFO - Communication handler cleaned up
+2026-02-14 06:57:58,941 - CubeSat - INFO - Shutdown complete
+2026-02-14 06:59:42,964 - CubeSat - INFO - ============================================================
+2026-02-14 06:59:42,964 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 06:59:42,964 - CubeSat - INFO - ============================================================
+2026-02-14 06:59:43,651 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 06:59:43,654 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 06:59:43,654 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:59:43,654 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 06:59:43,654 - CubeSat - INFO - GPIO initialized
+2026-02-14 06:59:43,654 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 06:59:43,654 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 06:59:43,654 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 06:59:43,654 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 06:59:43,654 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 06:59:43,654 - CameraHandler - INFO - Capturing image...
+2026-02-14 06:59:43,654 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 06:59:43,654 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 06:59:43,657 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 06:59:43,657 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 06:59:43,657 - CubeSat - INFO - Cleaning up old files
+2026-02-14 06:59:43,657 - Communication - WARNING - Radio serial not available
+2026-02-14 06:59:43,657 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 06:59:43,657 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 06:59:43,657 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 06:59:43,657 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 06:59:43,732 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_065943_728.jpg (47.6 KB)
+2026-02-14 06:59:43,757 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065943_728.jpg
+2026-02-14 06:59:43,757 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_065943_728.jpg
+2026-02-14 06:59:44,658 - CubeSat - INFO - Sending to ground: image
+2026-02-14 06:59:44,659 - Communication - ERROR - Radio not available
+2026-02-14 06:59:45,659 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 06:59:45,659 - Communication - ERROR - Radio not available
+2026-02-14 07:00:13,671 - Communication - WARNING - Radio serial not available
+2026-02-14 07:00:43,661 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 07:00:43,661 - CubeSat - INFO - Cleaning up old files
+2026-02-14 07:00:43,661 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 07:00:43,680 - Communication - WARNING - Radio serial not available
+2026-02-14 07:01:13,691 - Communication - WARNING - Radio serial not available
+2026-02-14 07:01:43,665 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 07:01:43,665 - CubeSat - INFO - Cleaning up old files
+2026-02-14 07:01:43,666 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 07:01:43,703 - Communication - WARNING - Radio serial not available
+2026-02-14 07:02:13,713 - Communication - WARNING - Radio serial not available
+2026-02-14 07:02:31,158 - CubeSat - INFO - Shutting down flight controller...
+2026-02-14 07:02:33,994 - CameraHandler - INFO - Camera released
+2026-02-14 07:02:33,994 - Communication - INFO - Communication handler cleaned up
+2026-02-14 07:02:33,994 - CubeSat - INFO - Shutdown complete
+2026-02-14 07:02:41,180 - CubeSat - INFO - ============================================================
+2026-02-14 07:02:41,180 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 07:02:41,181 - CubeSat - INFO - ============================================================
+2026-02-14 07:02:41,807 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 07:02:41,809 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 07:02:41,809 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 07:02:41,809 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 07:02:41,811 - CubeSat - INFO - GPIO initialized
+2026-02-14 07:02:41,811 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 07:02:41,811 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 07:02:41,812 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 07:02:41,812 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 07:02:41,812 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 07:02:41,812 - CameraHandler - INFO - Capturing image...
+2026-02-14 07:02:41,812 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 07:02:41,813 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 07:02:41,813 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 07:02:41,813 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 07:02:41,813 - CubeSat - INFO - Cleaning up old files
+2026-02-14 07:02:41,813 - Communication - WARNING - Radio serial not available
+2026-02-14 07:02:41,813 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 07:02:41,813 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 07:02:41,814 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 07:02:41,814 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 07:02:41,889 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_070241_885.jpg (49.2 KB)
+2026-02-14 07:02:41,913 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_070241_885.jpg
+2026-02-14 07:02:41,913 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_070241_885.jpg
+2026-02-14 07:02:42,716 - CameraHandler - INFO - Compression complete: 2.68x reduction (49.2KB -> 18.4KB)
+2026-02-14 07:02:42,814 - CubeSat - INFO - Sending to ground: image
+2026-02-14 07:02:42,815 - Communication - ERROR - Radio not available
+2026-02-14 07:02:43,816 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 07:02:43,816 - Communication - ERROR - Radio not available
+2026-02-14 07:03:11,826 - Communication - WARNING - Radio serial not available
+2026-02-14 07:03:41,817 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 07:03:41,817 - CubeSat - INFO - Cleaning up old files
+2026-02-14 07:03:41,817 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 07:03:41,837 - Communication - WARNING - Radio serial not available
+2026-02-14 07:04:00,937 - CubeSat - INFO - Shutting down flight controller...
+2026-02-14 07:04:02,171 - CameraHandler - INFO - Camera released
+2026-02-14 07:04:02,171 - Communication - INFO - Communication handler cleaned up
+2026-02-14 07:04:02,173 - CubeSat - INFO - Shutdown complete
+2026-02-14 07:06:04,159 - CubeSat - INFO - ============================================================
+2026-02-14 07:06:04,159 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 07:06:04,159 - CubeSat - INFO - ============================================================
+2026-02-14 07:06:04,863 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 07:06:04,863 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 07:06:04,863 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 07:06:04,863 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 07:06:04,867 - CubeSat - INFO - GPIO initialized
+2026-02-14 07:06:04,867 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 07:06:04,867 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 07:06:04,867 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 07:06:04,867 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 07:06:04,867 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 07:06:04,867 - CameraHandler - INFO - Capturing image...
+2026-02-14 07:06:04,867 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 07:06:04,867 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 07:06:04,869 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 07:06:04,869 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 07:06:04,869 - CubeSat - INFO - Cleaning up old files
+2026-02-14 07:06:04,869 - Communication - WARNING - Radio serial not available
+2026-02-14 07:06:04,869 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 07:06:04,869 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 07:06:04,869 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 07:06:04,869 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 07:06:04,945 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_070604_942.jpg (47.8 KB)
+2026-02-14 07:06:04,969 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_070604_942.jpg
+2026-02-14 07:06:04,969 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_070604_942.jpg
+2026-02-14 07:06:05,743 - CameraHandler - INFO - Compression complete: 2.40x reduction (47.8KB -> 19.9KB)
+2026-02-14 07:06:05,871 - CubeSat - INFO - Sending to ground: image
+2026-02-14 07:06:05,871 - Communication - ERROR - Radio not available
+2026-02-14 07:06:06,872 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 07:06:06,872 - Communication - ERROR - Radio not available
+2026-02-14 07:06:34,882 - Communication - WARNING - Radio serial not available
+2026-02-14 07:07:04,873 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 07:07:04,873 - CubeSat - INFO - Cleaning up old files
+2026-02-14 07:07:04,873 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 07:07:04,896 - Communication - WARNING - Radio serial not available
+2026-02-14 07:07:34,905 - Communication - WARNING - Radio serial not available
+2026-02-14 13:54:31,120 - CubeSat - INFO - ============================================================
+2026-02-14 13:54:31,122 - CubeSat - INFO - CubeSat 1U Flight Controller v1.0
+2026-02-14 13:54:31,122 - CubeSat - INFO - ============================================================
+2026-02-14 13:54:32,617 - CameraHandler - INFO - Camera initialized successfully
+2026-02-14 13:54:32,628 - TelemetryHandler - INFO - Telemetry database initialized
+2026-02-14 13:54:32,628 - Communication - ERROR - Failed to connect to STM32: could not open port '/dev/ttyS0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 13:54:32,628 - Communication - WARNING - Radio not connected: could not open port '/dev/ttyUSB0': FileNotFoundError(2, 'Системе не удается найти указанный путь.', None, 3)
+2026-02-14 13:54:32,635 - CubeSat - INFO - GPIO initialized
+2026-02-14 13:54:32,635 - CubeSat - INFO - Started thread: STM32 Reader
+2026-02-14 13:54:32,635 - CubeSat - INFO - Started thread: STM32 Writer
+2026-02-14 13:54:32,635 - CubeSat - INFO - Started thread: Command Processor
+2026-02-14 13:54:32,635 - CubeSat - INFO - Scheduled image capture triggered
+2026-02-14 13:54:32,635 - CubeSat - INFO - Started thread: Image Capture
+2026-02-14 13:54:32,638 - CameraHandler - INFO - Capturing image...
+2026-02-14 13:54:32,638 - CubeSat - INFO - Started thread: Image Compressor
+2026-02-14 13:54:32,638 - CubeSat - INFO - Started thread: Telemetry Logger
+2026-02-14 13:54:32,639 - CubeSat - WARNING - Low disk space: 0.00 GB
+2026-02-14 13:54:32,639 - CubeSat - INFO - Started thread: Health Monitor
+2026-02-14 13:54:32,640 - CubeSat - INFO - Cleaning up old files
+2026-02-14 13:54:32,640 - Communication - WARNING - Radio serial not available
+2026-02-14 13:54:32,640 - CubeSat - INFO - Started thread: Downlink Manager
+2026-02-14 13:54:32,642 - CubeSat - INFO - Started thread: Status LED
+2026-02-14 13:54:32,643 - TelemetryHandler - INFO - Cleaned up telemetry records older than 30 days
+2026-02-14 13:54:32,643 - CubeSat - INFO - Flight controller initialized successfully
+2026-02-14 13:54:32,661 - CameraHandler - INFO - Image captured: \media\sdcard\images\raw\raw_20260214_135432_645.jpg (39.6 KB)
+2026-02-14 13:54:32,739 - CubeSat - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_135432_645.jpg
+2026-02-14 13:54:32,739 - CameraHandler - INFO - Compressing image: \media\sdcard\images\raw\raw_20260214_135432_645.jpg
+2026-02-14 13:54:34,087 - CameraHandler - INFO - Compression complete: 1.93x reduction (39.6KB -> 20.5KB)
+2026-02-14 13:54:34,643 - CubeSat - INFO - Sending to ground: image
+2026-02-14 13:54:34,643 - Communication - ERROR - Radio not available
+2026-02-14 13:54:35,645 - CubeSat - INFO - Sending to ground: thumbnail
+2026-02-14 13:54:35,645 - Communication - ERROR - Radio not available
